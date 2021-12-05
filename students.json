@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "group": "VIS21",
+    "createdAt": "2020-03-02T12:41:09.533Z",
+    "updatedAt": "2020-03-02T12:45:02.121Z"
+  },
+  {
+    "id": 1,
+    "firstName": "Daniil",
+    "lastName": "Strukov",
+    "group": "VPI31",
+    "createdAt": "2020-03-02T12:41:09.533Z",
+    "updatedAt": "2020-03-02T12:45:02.121Z"
+  }
+]
